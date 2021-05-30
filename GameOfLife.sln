@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nyulak_beadandó", "GOL\GOL.csproj", "{2B4C3179-D800-47FD-95B3-2557A844CE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{52410BC0-0782-42F3-B1B9-E77F5EC2E5B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B4C3179-D800-47FD-95B3-2557A844CE5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4C3179-D800-47FD-95B3-2557A844CE5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4C3179-D800-47FD-95B3-2557A844CE5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4C3179-D800-47FD-95B3-2557A844CE5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52410BC0-0782-42F3-B1B9-E77F5EC2E5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52410BC0-0782-42F3-B1B9-E77F5EC2E5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52410BC0-0782-42F3-B1B9-E77F5EC2E5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52410BC0-0782-42F3-B1B9-E77F5EC2E5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {848B48FE-06C7-4FA1-BD19-3E8320FCAD2E}
+	EndGlobalSection
+EndGlobal
